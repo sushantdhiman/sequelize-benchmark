@@ -39,7 +39,7 @@ Open your local `sequelize` development path
 
 Link current repo with `sequelize` symlink
 ```bash
-  npm link //may be --production as well
+  npm link #may be --production as well
 ```
 
 Clone the repository via
@@ -59,10 +59,10 @@ Install required node modules
 
 Now use the `sequelize` from your local path
 ```bash
-  npm link sequelize
+  npm link sequelize #use your local sequelize
 ```
 
 Run benchmark
 ```bash
-  npm start
+  npm run <test-mysql | test-pg | test-sqlite | test-pg-native | test-mssql>
 ```
