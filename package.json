@@ -5,11 +5,11 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1",
     "test-mysql": "DIALECT=mysql npm start",
     "test-pg": "DIALECT=postgres npm start",
     "test-pg-native": "DIALECT=postgres-native npm start",
-    "test-sqlite": "DIALECT=sqlite npm start"
+    "test-sqlite": "DIALECT=sqlite npm start",
+    "test-mssql": "DIALECT=mssql npm start"
   },
   "repository": {
     "type": "git",

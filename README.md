@@ -26,11 +26,11 @@ cd /path/to/sequelize
 npm link
 cd /path/to/sequelize-benchmark
 npm link sequelize
-npm run <test | test-mysql | test-pg | test-sqlite | test-pg-native>
+npm run <test-mysql | test-pg | test-sqlite | test-pg-native | test-mssql>
 ```
 
 
-**Steps**
+**STEPS**
 
 Open your local `sequelize` development path
 ```bash
