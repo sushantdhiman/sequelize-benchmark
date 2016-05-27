@@ -2,7 +2,7 @@
 
 Benchmark which is used to record sequelize performance trends.
 
-### Config 
+### Config
 
 It support all possible `sequelize` environment configuration. Following `ENV` varibales are available generally
 
@@ -15,7 +15,6 @@ It support all possible `sequelize` environment configuration. Following `ENV` v
 `SEQ_POOL_MAX`, Maximum concurrent connection
 `SEQ_POOL_MIN`, Minimum concurrent connection
 `DIALECT`, Dialect to use , `mysql` default
-`VERBOSE`, Log the tests after each 100th run
 
 ```
 
@@ -27,27 +26,28 @@ cd /path/to/sequelize
 npm link
 cd /path/to/sequelize-benchmark
 npm link sequelize
+npm run <test | test-mysql | test-pg | test-sqlite | test-pg-native>
 ```
 
 
 **Steps**
 
-Open your local `sequelize` development path 
+Open your local `sequelize` development path
 ```bash
   cd /path/to/sequelize
 ```
 
 Link current repo with `sequelize` symlink
 ```bash
-  npm link
+  npm link //may be --production as well
 ```
 
-Clone the repository via 
+Clone the repository via
 ```bash
   git clone https://github.com/sushantdhiman/sequelize-benchmark
 ```
 
-Open the `sequelize-benchmark` path 
+Open the `sequelize-benchmark` path
 ```
   cd /path/to/sequelize-benchmark
 ```
@@ -66,4 +66,3 @@ Run benchmark
 ```bash
   npm start
 ```
-
