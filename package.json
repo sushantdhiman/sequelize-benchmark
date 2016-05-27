@@ -1,0 +1,25 @@
+{
+  "name": "sequelize-benchmark",
+  "version": "0.0.0",
+  "description": "benchmark for sequelize orm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sushantdhiman/sequelize-benchmark.git"
+  },
+  "keywords": [
+    "benchmark",
+    "sequelize",
+    "orm",
+    "performance"
+  ],
+  "author": "Sushant Dhiman <sushantdhiman@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sushantdhiman/sequelize-benchmark/issues"
+  },
+  "homepage": "https://github.com/sushantdhiman/sequelize-benchmark#readme"
+}
