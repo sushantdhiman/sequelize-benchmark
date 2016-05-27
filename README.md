@@ -21,6 +21,17 @@ It support all possible `sequelize` environment configuration. Following `ENV` v
 
 ### Usage
 
+**TLDR;**
+```
+cd /path/to/sequelize
+npm link
+cd /path/to/sequelize-benchmark
+npm link sequelize
+```
+
+
+**Steps**
+
 Open your local `sequelize` development path 
 ```bash
   cd /path/to/sequelize
