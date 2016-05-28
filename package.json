@@ -4,7 +4,7 @@
   "description": "benchmark for sequelize orm",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node test.js",
     "test-mysql": "DIALECT=mysql npm start",
     "test-pg": "DIALECT=postgres npm start",
     "test-pg-native": "DIALECT=postgres-native npm start",
