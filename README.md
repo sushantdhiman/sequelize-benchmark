@@ -2,6 +2,8 @@
 
 Benchmark which is used to record sequelize performance trends.
 
+<p align="center"><img src="http://i.imgur.com/Br9iaiO.png" /></p>
+
 ### Config
 
 It support all possible `sequelize` environment configuration. Following `ENV` varibales are available generally
