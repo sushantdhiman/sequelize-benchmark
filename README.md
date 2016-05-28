@@ -1,4 +1,6 @@
 ## Sequelize Benchmark
+[![David](https://img.shields.io/david/sushantdhiman/sequelize-benchmark.svg?maxAge=2592000?style=plastic)]()
+[![npm](https://img.shields.io/npm/v/npm.svg?maxAge=2592000?style=plastic)]()
 
 Benchmark which is used to record sequelize performance trends.
 
