@@ -1,10 +1,10 @@
 ## Sequelize Benchmark
-[![David](https://img.shields.io/david/sushantdhiman/sequelize-benchmark.svg?maxAge=2592000?style=plastic)]()
-[![npm](https://img.shields.io/npm/v/npm.svg?maxAge=2592000?style=plastic)]()
+[![https://david-dm.org/sushantdhiman/sequelize-benchmark](https://img.shields.io/david/sushantdhiman/sequelize-benchmark.svg?maxAge=2592000?style=plastic)]()
+[![https://www.npmjs.com/package/sequelize-benchmark](https://img.shields.io/npm/v/npm.svg?maxAge=2592000?style=plastic)]()
 
 Benchmark which is used to record sequelize performance trends.
 
-<p align="center"><img src="http://i.imgur.com/Br9iaiO.png" /></p>
+<p align="center"><img src="http://i.imgur.com/4z11JUe.png" /></p>
 
 ### Config
 
@@ -26,11 +26,11 @@ It support all possible `sequelize` environment configuration. Following `ENV` v
 
 ```bash
   # Open your local sequelize development path
-  cd /path/to/sequelize 
+  cd /path/to/sequelize
 
   # Link current repo with sequelize global symlink
   npm link # may be --production as well
-  
+
   # Clone benchmarking repository via
   git clone https://github.com/sushantdhiman/sequelize-benchmark
 
