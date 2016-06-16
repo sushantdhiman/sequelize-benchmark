@@ -10,7 +10,7 @@ Benchmark which is used to record sequelize performance trends.
 
 It support all possible `sequelize` environment configuration. Following `ENV` varibales are available generally
 
-```bash
+```
 
 `SEQ_USER`, Username for database
 `SEQ_PW`, Password for database
@@ -19,6 +19,8 @@ It support all possible `sequelize` environment configuration. Following `ENV` v
 `SEQ_POOL_MAX`, Maximum concurrent connection
 `SEQ_POOL_MIN`, Minimum concurrent connection
 `DIALECT`, Dialect to use , `mysql` default
+`LARGE_SAMPLE_SIZE`, Sample size for large tests
+`SMALL_SAMPLE_SIZE`, Sample size for small tests
 
 ```
 
