@@ -3,6 +3,10 @@
   "version": "0.3.0",
   "description": "benchmark for sequelize orm",
   "main": "index.js",
+  "preferGlobal": "true",
+  "bin": {
+    "sequelize-benchmark" : "index.js"
+  },
   "scripts": {
     "start": "node test.js",
     "test-mysql": "DIALECT=mysql npm start",
