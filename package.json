@@ -5,7 +5,7 @@
   "main": "index.js",
   "preferGlobal": "true",
   "bin": {
-    "sequelize-benchmark" : "index.js"
+    "sequelize-benchmark" : "bin.js"
   },
   "scripts": {
     "start": "node test.js",
