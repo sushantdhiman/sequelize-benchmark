@@ -1,11 +1,11 @@
 {
   "name": "sequelize-benchmark",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "benchmark for sequelize orm",
   "main": "index.js",
   "preferGlobal": "true",
   "bin": {
-    "sequelize-benchmark" : "bin.js"
+    "sequelize-benchmark": "bin.js"
   },
   "scripts": {
     "start": "node test.js",
