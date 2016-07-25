@@ -35,7 +35,7 @@
     "benchmark": "^2.1.0",
     "debug": "^2.2.0",
     "lodash.defaults": "^4.0.1",
-    "lodash.samplesize": "^4.0.4",
+    "lodash.samplesize": "^4.1.0",
     "microtime": "^2.1.1"
   }
 }
