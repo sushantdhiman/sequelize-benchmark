@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/sushantdhiman/sequelize-benchmark#readme",
   "dependencies": {
-    "benchmark": "^2.1.0",
+    "benchmark": "^2.1.1",
     "debug": "^2.2.0",
     "lodash.defaults": "^4.0.1",
     "lodash.samplesize": "^4.1.0",
