@@ -1,6 +1,6 @@
 ## Sequelize Benchmark
 [![Dependency Status](https://david-dm.org/sushantdhiman/sequelize-benchmark.svg)](https://david-dm.org/sushantdhiman/sequelize-benchmark)
-[![npm](https://img.shields.io/npm/v/npm.svg?maxAge=2592000?style=plastic)](https://www.npmjs.com/package/sequelize-benchmark)
+[![npm](https://img.shields.io/npm/v/sequelize-benchmark.svg?maxAge=2592000?style=plastic)](https://www.npmjs.com/package/sequelize-benchmark)
 
 Benchmark which is used to measure sequelize performance
 
