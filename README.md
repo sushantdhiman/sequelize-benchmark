@@ -5,7 +5,7 @@
 
 Benchmark which is used to measure sequelize performance
 
-<p align="center"><img src="http://i.imgur.com/vSNc49a.png" /></p>
+<p align="center"><img src="http://i.imgur.com/KIu67yV.png" /></p>
 
 ### Config
 
