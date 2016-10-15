@@ -21,9 +21,7 @@
   },
   "keywords": [
     "benchmark",
-    "sequelize",
-    "orm",
-    "performance"
+    "sequelize"
   ],
   "author": "Sushant Dhiman <sushantdhiman@outlook.com>",
   "license": "MIT",
