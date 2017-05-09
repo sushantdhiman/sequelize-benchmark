@@ -34,6 +34,6 @@
     "debug": "^2.6.3",
     "lodash.defaults": "^4.2.0",
     "lodash.samplesize": "^4.2.0",
-    "microtime": "^2.1.2"
+    "microtime": "^2.1.3"
   }
 }
