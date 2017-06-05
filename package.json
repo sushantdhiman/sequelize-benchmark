@@ -31,7 +31,7 @@
   "homepage": "https://github.com/sushantdhiman/sequelize-benchmark#readme",
   "dependencies": {
     "benchmark": "^2.1.4",
-    "debug": "^2.6.6",
+    "debug": "^2.6.8",
     "lodash.defaults": "^4.2.0",
     "lodash.samplesize": "^4.2.0",
     "microtime": "^2.1.3"
