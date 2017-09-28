@@ -63,3 +63,16 @@ It support all possible `sequelize` environment configuration. Following `ENV` v
   # Run benchmark
   npm run <test-mysql | test-pg | test-sqlite | test-pg-native | test-mssql>
 ```
+
+## Troubleshooting
+
+### ECONNRESET when running mysql benchmark
+
+In case you get ECONNRESET error when starting benchmark, try to increase `max_package_size` of your mysql server.
+You can do this with query (it will work till reboot):
+
+```
+SET GLOBAL max_allowed_packet=1073741824;
+```
+
+or by editing mysql configuration.
