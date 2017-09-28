@@ -17,6 +17,7 @@ It support all possible `sequelize` environment configuration. Following `ENV` v
 `SEQ_PW`, Password for database
 `SEQ_DB`, Database name
 `SEQ_HOST`, Host addresss
+`SEQ_PORT`, Host port
 `SEQ_POOL_MAX`, Maximum concurrent connection
 `SEQ_POOL_MIN`, Minimum concurrent connection
 `DIALECT`, Dialect to use , `mysql` default
