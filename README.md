@@ -1,7 +1,6 @@
 ## Sequelize Benchmark
 [![Dependency Status](https://david-dm.org/sushantdhiman/sequelize-benchmark.svg?style=flat-square)](https://david-dm.org/sushantdhiman/sequelize-benchmark)
 [![npm](https://img.shields.io/npm/v/sequelize-benchmark.svg?maxAge=86400&style=flat-square)](https://www.npmjs.com/package/sequelize-benchmark)
-[![npm](https://img.shields.io/npm/dm/sequelize-benchmark.svg?maxAge=3600&style=flat-square)](https://www.npmjs.com/package/sequelize-benchmark)
 
 Benchmark which is used to measure sequelize performance
 
@@ -40,7 +39,7 @@ It support all possible `sequelize` environment configuration. Following `ENV` v
   DIALECT=<postgres | mysql | sqlite | mssql > sequelize-benchmark
 ```
 
-### Using via NPM Link (Hard mode)
+### Using via NPM Link
 
 ```bash
   # Open your local sequelize development path
